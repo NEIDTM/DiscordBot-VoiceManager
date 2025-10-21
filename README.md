@@ -1,8 +1,8 @@
 # DiscordBot-VoiceManager 🎙️
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-<img src="https://cdn.brandfetch.io/idM8Hlme1a/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Discord" width="50" height="50"/>
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.brandfetch.io/idM8Hlme1a/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Discord" width="50" height="50"/>
+</p>
 A **Discord bot** built with [Disnake](https://docs.disnake.dev/) that allows users to create **voice channels** with full control over settings. Ideal for communities that want  rooms with permissions and moderation features.
 
 ---
