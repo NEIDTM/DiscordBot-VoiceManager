@@ -1,6 +1,6 @@
 # DiscordBot-VoiceManager
 
-A **Discord bot** built with [Disnake](https://docs.disnake.dev/) that allows users to create **private voice channels** with full control over their settings. Perfect for communities that want private rooms with permissions and moderation features.
+A **Discord bot** built with [Disnake](https://docs.disnake.dev/) that allows users to create **voice channels** with full control over their settings. Perfect for communities that want private rooms with permissions and moderation features.
 
 ---
 
